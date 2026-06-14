@@ -4,9 +4,10 @@
 
 ### 🚀 Currently learning, building, and figuring things out — one project at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://incomparable-pudding-0b1102.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal20p6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-s-)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -35,12 +36,12 @@
 
 ### 📌 Featured Project
 
-**🩺 MediMind-AI** — AI-powered healthcare platform for medical report analysis, imaging diagnostics, prescription decoding, and intelligent health insights.
+**[🩺 MediMind-AI](https://github.com/Prajwal20p6/MediMind-AI)** — AI-powered healthcare platform for medical report analysis, imaging diagnostics, prescription decoding, and intelligent health insights.
 `Jupyter Notebook` `AI/ML` `Healthcare Tech`
 
-**🌐 Single Page Website** — Frontend project built with HTML, CSS, and JavaScript.
+**[🌐 Single Page Website](https://github.com/Prajwal20p6/Single-page-website)** — Frontend project built with HTML, CSS, and JavaScript.
 
-**🌱 Sustainable App** — Early-stage project exploring sustainability-focused app ideas.
+**[🌱 Sustainable App](https://github.com/Prajwal20p6/sustainable-app)** — Early-stage project exploring sustainability-focused app ideas.
 
 ---
 
@@ -82,5 +83,7 @@
 ### 📫 Let's Connect
 
 Open to collaborations, internships, and learning opportunities — feel free to reach out!
+
+[**🌐 Portfolio: Prajwal S | CSE Student & Product Builder**](https://incomparable-pudding-0b1102.netlify.app/) · [**GitHub**](https://github.com/Prajwal20p6) · [**LinkedIn**](https://www.linkedin.com/in/prajwal-s-)
 
 </div>
